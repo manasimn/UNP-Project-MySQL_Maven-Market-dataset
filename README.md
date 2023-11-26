@@ -17,4 +17,5 @@ Queries:
 Employed MySQL syntax to solve queries and gather insights on Maven Market:
  Query Examples: Calculate the average cost per product, Summarize sales per store, Calculate the overall revenue from transactions, Identify the top 5 returned products by count, etc.
 
- 
+ SQL Text file link: https://drive.google.com/file/d/1dD4HFdeZYOvxtyl1fZTy3GY3XvAPExBp/view?usp=sharing
+ PDF link: https://drive.google.com/file/d/1BFOU7uBiYMbaihpcUiNUbnQHpB4gH2zA/view?usp=sharing
